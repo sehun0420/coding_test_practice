@@ -1,10 +1,10 @@
 # [unrated] 덧셈식 출력하기 - 181947 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181947) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181947?language=c) 
 
 ### 성능 요약
 
-메모리: 7.4 MB, 시간: 17.75 ms
+메모리: 4.29 MB, 시간: 2.40 ms
 
 ### 구분
 
